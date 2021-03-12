@@ -1,0 +1,5 @@
+customer_code,name,phone_number,is_active,loyalty_level,total_value
+C001,Paijo,062852336217,False,BRONZE,2450000
+C002,Paimin,02323238,False,BRONZE,1560000
+C006,Erian,0212212,False,BRONZE,30000
+C005,paim0,UNKNOWN,False,BRONZE,360000
