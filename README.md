@@ -24,16 +24,16 @@ Question 2
 
 Question 3 
 
-<!--  TODO: Test docker in ub-laptop -->
+> TODO: Test docker in ub-laptop
 
 Question 4
 
 Store the table in your preffered database, run the sql statements as is.
 
-<!--  TODO: Finish Recursive CTE -->
+> TODO: Finish Recursive CTE
 
 Question 5
 
 1. Set a `env` variable in your airflow machine to `preproduction`, or any value really
 
-<!--  TODO: Test dag on ub-laptop's local -->
+> TODO: Test dag on ub-laptop's local
